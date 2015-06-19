@@ -1,0 +1,14 @@
+{
+  "name": "promise-puzzle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wisam Zaghal <wisamzaghal@gmail.com> (http://wisam.io/)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^2.9.30"
+  }
+}
